@@ -1,0 +1,10 @@
+
+build/
+
+*.log
+
+.idea/
+
+node_modules/
+
+*.sqlite
